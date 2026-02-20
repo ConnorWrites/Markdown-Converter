@@ -1,3 +1,8 @@
+document.addEventListener("DOMContentLoaded", () => {
+const markdownInput = document.getElementById("markdown-input");
+const htmlOutput = document.getElementById("html-output");
+const preview = document.getElementById("preview");
+  
 const convertMarkdown = () => {
   let markdown = markdownInput.value;
 
@@ -34,4 +39,5 @@ markdownInput.addEventListener("input", () => {
   const result = convertMarkdown();
   htmlOutput.textContent = result;
   preview.innerHTML = result;
+});
 });
