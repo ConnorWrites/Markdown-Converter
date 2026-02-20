@@ -8,12 +8,12 @@ This project was built to deepen my understanding of JavaScript string manipulat
 ---
 
 ## 🚀 Live Demo
-👉  
+👉  https://connorwrites.github.io/Markdown-Converter/
 
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot of the app interface here)*
+[![Markdown Converter Screenshot](https://i.imgur.com/F3MZpAn.png)](https://imgur.com/F3MZpAn)
 
 ---
 
@@ -64,4 +64,4 @@ This project was built to deepen my understanding of JavaScript string manipulat
 ## ▶️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ConnorWrites/markdown-converter.git
+   git clone https://github.com/ConnorWrites/Markdown-Converter.git
